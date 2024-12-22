@@ -1,0 +1,6 @@
+clickhouse-connect==0.8.0
+clickhouse-driver==0.2.9
+airflow-providers-clickhouse==0.0.1
+pyspark==3.5.3
+findspark==2.0.1
+py4j==0.10.9.7
